@@ -1,6 +1,7 @@
 <img width="556" height="286" alt="image" src="https://github.com/user-attachments/assets/d1664459-479b-4217-b1a6-b00475ef7ff1" />
 <img width="990" height="155" alt="image" src="https://github.com/user-attachments/assets/086684db-ae2f-4ff8-846e-6006efd16e7a" />
-![Uploading image.png…]()
+
+<img width="465" height="186" alt="image" src="https://github.com/user-attachments/assets/2ea8e3d9-bd2d-43b9-b240-3f5925c77f37" />
 
 
 ### 메일 발송 구조 개선 (동기 처리 -> 이벤트 기반 비동기 처리)
